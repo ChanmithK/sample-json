@@ -1,0 +1,102 @@
+// Landing Page Data
+export const landingPageData = {
+  header: {
+    logoText: "PayHere Partners",
+    navLinks: [
+      { name: "About Program", link: "#about-program" },
+      { name: "How it works", link: "#how-it-works" },
+      { name: "Faq", link: "#faq" },
+      { name: "Login", link: "#login", button: true },
+    ],
+  },
+  heroSection: {
+    title1: " PayHere Partner Program",
+    title2: "Refer & Get Rewarded",
+    description:
+      "PayHere Referral Program allows you to earn an additional income by referring PayHere to your business networks & helping them to grow with PayHere.",
+    ctaText: "Join the Program",
+    ctaLink: "#join-program",
+  },
+  referAndEarn: {
+    title1: "How it works",
+    title2: "Refer & Earn",
+    steps: [
+      {
+        stepNumber: "01",
+        title: "Join Program",
+        description: [
+          "Sign up to become a PayHere Referrer",
+          "Get a recommendation from an existing PayHere Merchant",
+          "Provide your bank account details to get rewarded",
+        ],
+        icon: "/images/ReferAndEarn/join.webp",
+      },
+      {
+        stepNumber: "02",
+        title: "Refer Friend",
+        description: [
+          "Spread the word about PayHere to your networks",
+          "Refer PayHere to businesses with online payment needs",
+          "Help your referred businesses to use PayHere",
+        ],
+        icon: "/images/ReferAndEarn/refer.webp",
+      },
+      {
+        stepNumber: "03",
+        title: "Earn Points",
+        description: [
+          "Get your referrals confirmed once they become PayHere Merchants",
+          "Earn reward points for every payment they receive with PayHere",
+          "Redeem your reward points as cash",
+        ],
+        icon: "/images/ReferAndEarn/earn.webp",
+      },
+    ],
+  },
+  whoCanJoin: {
+    title1: "Who can join",
+    title2: "Ideally anyone",
+    categories: [
+      {
+        title: "PayHere Merchants",
+        description:
+          "If you use PayHere, you know firsthand how it can benefit other businesses",
+        icon: "/images/WhoCanJoin/merchants.webp",
+      },
+      {
+        title: "Developers",
+        description:
+          "Refer PayHere to the businesses who get your development services",
+        icon: "/images/WhoCanJoin/developers.webp",
+      },
+      {
+        title: "Marketers",
+        description:
+          "Refer PayHere to the businesses who get your marketing services",
+        icon: "/images/WhoCanJoin/marketers.webp",
+      },
+    ],
+  },
+  faqSection: {
+    title1: "FAQ",
+    title2: "All the answers you need!",
+    questions: [
+      {
+        question: "Do I need to be a PayHere Merchant to join the Program?",
+        answer: "No, you can join the program without being a merchant.",
+      },
+      {
+        question: "Do I need to be a PayHere Merchant to join the Program?",
+        answer: "No, you can join the program without being a merchant.",
+      },
+      {
+        question: "Do I need to be a PayHere Merchant to join the Program?",
+        answer: "No, you can join the program without being a merchant.",
+      },
+      {
+        question: "Do I need to be a PayHere Merchant to join the Program?",
+        answer: "No, you can join the program without being a merchant.",
+      },
+    ],
+  },
+};
