@@ -70,6 +70,21 @@
             "title": "Marketers",
             "description": "Refer PayHere to the businesses who get your marketing services",
             "icon": "/images/WhoCanJoin/marketers.webp"
+          },
+          {
+            "title": "PayHere Merchants",
+            "description": "If you use PayHere, you know firsthand how it can benefit other businesses",
+            "icon": "/images/WhoCanJoin/merchants.webp"
+          },
+          {
+            "title": "Developers",
+            "description": "Refer PayHere to the businesses who get your development services",
+            "icon": "/images/WhoCanJoin/developers.webp"
+          },
+          {
+            "title": "Marketers",
+            "description": "Refer PayHere to the businesses who get your marketing services",
+            "icon": "/images/WhoCanJoin/marketers.webp"
           }
         ]
       },
@@ -78,6 +93,26 @@
         "title2": "All the answers you need!",
         "questions": [
           {
+            "question": "Do I need to be a PayHere Merchant to join the Program?",
+            "answer": "No, you can join the program without being a merchant."
+          },
+          {
+            "question": "Do I need to be a PayHere Merchant to join the Program?",
+            "answer": "No, you can join the program without being a merchant."
+          },
+            {
+            "question": "Do I need to be a PayHere Merchant to join the Program?",
+            "answer": "No, you can join the program without being a merchant."
+          },        
+            {
+            "question": "Do I need to be a PayHere Merchant to join the Program?",
+            "answer": "No, you can join the program without being a merchant."
+          },    
+            {
+            "question": "Do I need to be a PayHere Merchant to join the Program?",
+            "answer": "No, you can join the program without being a merchant."
+          },    
+            {
             "question": "Do I need to be a PayHere Merchant to join the Program?",
             "answer": "No, you can join the program without being a merchant."
           }
