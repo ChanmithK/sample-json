@@ -1,7 +1,7 @@
-﻿{
+{
     "status": {
         "success": "true",
-        "code": 300,
+        "code": 200,
         "round": 1,
         "round_title": ""
     },
@@ -13,278 +13,334 @@
             "pd_code": "",
             "by_party": [
                 {
-                    "party_code": "NPP",
-                    "votes": 83753,
-                    "percentage": 44.36,
-                    "members": 7
-                },
-                {
-                    "party_code": "SJB",
-                    "votes": 17368,
-                    "percentage": 9.2,
+                    "party_code": "DP",
+                    "votes": 116116,
+                    "percentage": 40.17,
                     "members": 2
                 },
                 {
-                    "party_code": "SLPP",
-                    "votes": 880,
-                    "percentage": 0.47,
-                    "members": 0
-                },
-                {
-                    "party_code": "DUNF",
-                    "votes": 390,
-                    "percentage": 0.21,
-                    "members": 0
+                    "party_code": "SJB",
+                    "votes": 82080,
+                    "percentage": 28.39,
+                    "members": 1
                 },
                 {
                     "party_code": "JSP",
-                    "votes": 259,
-                    "percentage": 0.14,
+                    "votes": 80262,
+                    "percentage": 27.76,
+                    "members": 1
+                },
+                {
+                    "party_code": "IND10-14",
+                    "votes": 469,
+                    "percentage": 0.16,
                     "members": 0
                 },
                 {
-                    "party_code": "SB",
-                    "votes": 237,
-                    "percentage": 0.13,
-                    "members": 0
-                }
-            ],
-            "summary": {
-                "valid": 188785,
-                "rejected": 3945,
-                "polled": 192730,
-                "electors": 228411,
-                "percent_valid": "97.95",
-                "percent_rejected": "2.05",
-                "percent_polled": "84.38"
-            },
-            "division_count": 4,
-            "division_total": 205,
-            "time": "2024-11-08 20:01:25"
-        },
-        {
-            "index": "1",
-            "type": "pd",
-            "ed_code": "06",
-            "pd_code": "06P",
-            "by_party": [
-                {
-                    "party_code": "NPP",
-                    "votes": 21589,
-                    "percentage": 60.04,
-                    "members": 0
-                },
-                {
-                    "party_code": "SJB",
-                    "votes": 5465,
-                    "percentage": 15.2,
-                    "members": 0
-                },
-                {
-                    "party_code": "SLPP",
-                    "votes": 663,
-                    "percentage": 1.84,
-                    "members": 0
-                },
-                {
-                    "party_code": "DUNF",
-                    "votes": 390,
-                    "percentage": 1.08,
-                    "members": 0
-                },
-                {
-                    "party_code": "SB",
-                    "votes": 43,
-                    "percentage": 0.12,
-                    "members": 0
-                },
-                {
-                    "party_code": "SEP",
-                    "votes": 30,
-                    "percentage": 0.08,
-                    "members": 0
-                }
-            ],
-            "summary": {
-                "valid": 35959,
-                "rejected": 763,
-                "polled": 36722,
-                "electors": 37348,
-                "percent_valid": "97.92",
-                "percent_rejected": "2.08",
-                "percent_polled": "98.32"
-            },
-            "division_count": 1,
-            "division_total": 205,
-            "time": "2024-11-08 20:01:24"
-        },
-        {
-            "index": "2",
-            "type": "pd",
-            "ed_code": "06",
-            "pd_code": "06C",
-            "by_party": [
-                {
-                    "party_code": "NPP",
-                    "votes": 28025,
-                    "percentage": 40.56,
-                    "members": 0
-                },
-                {
-                    "party_code": "SJB",
-                    "votes": 11903,
-                    "percentage": 17.23,
-                    "members": 0
-                },
-                {
-                    "party_code": "SLPP",
-                    "votes": 93,
-                    "percentage": 0.13,
-                    "members": 0
-                },
-                {
-                    "party_code": "UNP",
-                    "votes": 78,
-                    "percentage": 0.11,
-                    "members": 0
-                },
-                {
-                    "party_code": "USP",
-                    "votes": 59,
-                    "percentage": 0.09,
-                    "members": 0
-                },
-                {
-                    "party_code": "UDV",
-                    "votes": 46,
-                    "percentage": 0.07,
-                    "members": 0
-                }
-            ],
-            "summary": {
-                "valid": 69098,
-                "rejected": 1734,
-                "polled": 70832,
-                "electors": 86639,
-                "percent_valid": "97.55",
-                "percent_rejected": "2.45",
-                "percent_polled": "81.76"
-            },
-            "division_count": 2,
-            "division_total": 205,
-            "time": "2024-11-08 20:02:16"
-        },
-        {
-            "index": "3",
-            "type": "pd",
-            "ed_code": "06",
-            "pd_code": "06D",
-            "by_party": [
-                {
-                    "party_code": "NPP",
-                    "votes": 34139,
-                    "percentage": 40.77,
-                    "members": 0
-                },
-                {
-                    "party_code": "JSP",
-                    "votes": 252,
-                    "percentage": 0.3,
-                    "members": 0
-                },
-                {
-                    "party_code": "SB",
-                    "votes": 194,
-                    "percentage": 0.23,
-                    "members": 0
-                },
-                {
-                    "party_code": "SEP",
-                    "votes": 158,
-                    "percentage": 0.19,
-                    "members": 0
-                },
-                {
-                    "party_code": "SLPP",
-                    "votes": 124,
+                    "party_code": "IND09-14",
+                    "votes": 444,
                     "percentage": 0.15,
                     "members": 0
                 },
                 {
-                    "party_code": "DP",
-                    "votes": 117,
-                    "percentage": 0.14,
+                    "party_code": "JSWP",
+                    "votes": 428,
+                    "percentage": 0.15,
                     "members": 0
                 }
             ],
             "summary": {
-                "valid": 83728,
-                "rejected": 1448,
-                "polled": 85176,
-                "electors": 104424,
-                "percent_valid": "98.3",
-                "percent_rejected": "1.7",
-                "percent_polled": "81.57"
+                "valid": 289091,
+                "rejected": 3039,
+                "polled": 292130,
+                "electors": 315925,
+                "percent_valid": "98.96",
+                "percent_rejected": "1.04",
+                "percent_polled": "92.47"
             },
-            "division_count": 3,
+            "division_count": 5,
             "division_total": 205,
-            "time": "2024-11-08 20:02:50"
+            "time": "2024-11-12 14:05:40"
         },
         {
-            "index": "4",
-            "type": "ed",
-            "ed_code": "06",
-            "pd_code": "06Z",
+            "index": "1",
+            "type": "pd",
+            "ed_code": "14",
+            "pd_code": "14P",
             "by_party": [
                 {
-                    "party_code": "NPP",
-                    "votes": 387764,
-                    "percentage": 47.43,
-                    "members": 6
+                    "party_code": "DP",
+                    "votes": 4428,
+                    "percentage": 32.48,
+                    "members": 0
+                },
+                {
+                    "party_code": "JSP",
+                    "votes": 3198,
+                    "percentage": 23.46,
+                    "members": 0
                 },
                 {
                     "party_code": "SJB",
-                    "votes": 143285,
-                    "percentage": 17.53,
-                    "members": 2
-                },
-                {
-                    "party_code": "UNP",
-                    "votes": 652,
-                    "percentage": 0.08,
-                    "members": 1
-                },
-                {
-                    "party_code": "UDV",
-                    "votes": 299,
-                    "percentage": 0.04,
+                    "votes": 3077,
+                    "percentage": 22.57,
                     "members": 0
                 },
                 {
-                    "party_code": "JPF",
-                    "votes": 258,
-                    "percentage": 0.03,
+                    "party_code": "IND03-14",
+                    "votes": 143,
+                    "percentage": 1.05,
                     "members": 0
                 },
                 {
-                    "party_code": "DUNF",
-                    "votes": 249,
-                    "percentage": 0.03,
+                    "party_code": "NPP",
+                    "votes": 136,
+                    "percentage": 1,
+                    "members": 0
+                },
+                {
+                    "party_code": "IND09-14",
+                    "votes": 130,
+                    "percentage": 0.95,
                     "members": 0
                 }
             ],
             "summary": {
-                "valid": 817518,
-                "rejected": 16243,
-                "polled": 833761,
-                "electors": 1024244,
-                "percent_valid": "98.05",
-                "percent_rejected": "1.95",
-                "percent_polled": "81.4"
+                "valid": 13634,
+                "rejected": 812,
+                "polled": 14446,
+                "electors": 16807,
+                "percent_valid": "94.38",
+                "percent_rejected": "5.62",
+                "percent_polled": "85.95"
+            },
+            "division_count": 1,
+            "division_total": 205,
+            "time": "2024-11-12 14:05:40"
+        },
+        {
+            "index": "2",
+            "type": "pd",
+            "ed_code": "14",
+            "pd_code": "14A",
+            "by_party": [
+                {
+                    "party_code": "DP",
+                    "votes": 29529,
+                    "percentage": 39.87,
+                    "members": 0
+                },
+                {
+                    "party_code": "SJB",
+                    "votes": 21260,
+                    "percentage": 28.7,
+                    "members": 0
+                },
+                {
+                    "party_code": "JSP",
+                    "votes": 21160,
+                    "percentage": 28.57,
+                    "members": 0
+                },
+                {
+                    "party_code": "IND10-14",
+                    "votes": 111,
+                    "percentage": 0.15,
+                    "members": 0
+                },
+                {
+                    "party_code": "IND04-14",
+                    "votes": 96,
+                    "percentage": 0.13,
+                    "members": 0
+                },
+                {
+                    "party_code": "IND09-14",
+                    "votes": 95,
+                    "percentage": 0.13,
+                    "members": 0
+                }
+            ],
+            "summary": {
+                "valid": 74072,
+                "rejected": 531,
+                "polled": 74603,
+                "electors": 79159,
+                "percent_valid": "99.29",
+                "percent_rejected": "0.71",
+                "percent_polled": "94.24"
+            },
+            "division_count": 2,
+            "division_total": 205,
+            "time": "2024-11-12 14:08:28"
+        },
+        {
+            "index": "3",
+            "type": "pd",
+            "ed_code": "14",
+            "pd_code": "14B",
+            "by_party": [
+                {
+                    "party_code": "DP",
+                    "votes": 36778,
+                    "percentage": 40.1,
+                    "members": 0
+                },
+                {
+                    "party_code": "SJB",
+                    "votes": 27509,
+                    "percentage": 29.99,
+                    "members": 0
+                },
+                {
+                    "party_code": "JSP",
+                    "votes": 24892,
+                    "percentage": 27.14,
+                    "members": 0
+                },
+                {
+                    "party_code": "IND11-14",
+                    "votes": 124,
+                    "percentage": 0.14,
+                    "members": 0
+                },
+                {
+                    "party_code": "IND12-14",
+                    "votes": 124,
+                    "percentage": 0.14,
+                    "members": 0
+                },
+                {
+                    "party_code": "NLNP",
+                    "votes": 116,
+                    "percentage": 0.13,
+                    "members": 0
+                }
+            ],
+            "summary": {
+                "valid": 91723,
+                "rejected": 793,
+                "polled": 92516,
+                "electors": 101081,
+                "percent_valid": "99.14",
+                "percent_rejected": "0.86",
+                "percent_polled": "91.53"
+            },
+            "division_count": 3,
+            "division_total": 205,
+            "time": "2024-11-12 14:10:28"
+        },
+        {
+            "index": "4",
+            "type": "pd",
+            "ed_code": "14",
+            "pd_code": "14C",
+            "by_party": [
+                {
+                    "party_code": "DP",
+                    "votes": 45381,
+                    "percentage": 41.38,
+                    "members": 0
+                },
+                {
+                    "party_code": "JSP",
+                    "votes": 31012,
+                    "percentage": 28.28,
+                    "members": 0
+                },
+                {
+                    "party_code": "SJB",
+                    "votes": 30234,
+                    "percentage": 27.57,
+                    "members": 0
+                },
+                {
+                    "party_code": "DLF",
+                    "votes": 138,
+                    "percentage": 0.13,
+                    "members": 0
+                },
+                {
+                    "party_code": "DNA",
+                    "votes": 136,
+                    "percentage": 0.12,
+                    "members": 0
+                },
+                {
+                    "party_code": "NDF",
+                    "votes": 131,
+                    "percentage": 0.12,
+                    "members": 0
+                }
+            ],
+            "summary": {
+                "valid": 109662,
+                "rejected": 903,
+                "polled": 110565,
+                "electors": 118878,
+                "percent_valid": "99.18",
+                "percent_rejected": "0.82",
+                "percent_polled": "93.01"
             },
             "division_count": 4,
             "division_total": 205,
-            "time": "2024-11-08 20:03:06"
+            "time": "2024-11-12 14:14:27"
+        },
+        {
+            "index": "5",
+            "type": "ed",
+            "ed_code": "14",
+            "pd_code": "14Z",
+            "by_party": [
+                {
+                    "party_code": "DP",
+                    "votes": 116116,
+                    "percentage": 40.17,
+                    "members": 2
+                },
+                {
+                    "party_code": "SJB",
+                    "votes": 82080,
+                    "percentage": 28.39,
+                    "members": 1
+                },
+                {
+                    "party_code": "JSP",
+                    "votes": 80262,
+                    "percentage": 27.76,
+                    "members": 1
+                },
+                {
+                    "party_code": "IND10-14",
+                    "votes": 469,
+                    "percentage": 0.16,
+                    "members": 0
+                },
+                {
+                    "party_code": "IND09-14",
+                    "votes": 444,
+                    "percentage": 0.15,
+                    "members": 0
+                },
+                {
+                    "party_code": "JSWP",
+                    "votes": 428,
+                    "percentage": 0.15,
+                    "members": 0
+                }
+            ],
+            "summary": {
+                "valid": 289091,
+                "rejected": 3039,
+                "polled": 292130,
+                "electors": 315925,
+                "percent_valid": "98.96",
+                "percent_rejected": "1.04",
+                "percent_polled": "92.47"
+            },
+            "division_count": 5,
+            "division_total": 205,
+            "time": "2024-11-12 14:16:01"
         }
     ]
 }
