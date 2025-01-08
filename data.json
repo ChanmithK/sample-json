@@ -25,7 +25,7 @@
       "heroSection":{
          "title1":"PayHere Partner Program",
          "title2":"Refer & Get Rewarded",
-         "description":"PayHere Referral Program allows you to earn an additional income by referring PayHere to your business networks & helping them to grow with PayHere.",
+         "description":"This Program allows you to earn an additional income by referring PayHere to your business networks & helping them to grow with PayHere",
          "ctaText":"Join the Program",
          "ctaLink":"https://partners.payhere.lk/dashboard/auth/sign-up"
       },
@@ -35,9 +35,9 @@
          "steps":[
             {
                "stepNumber":"01",
-               "title":"Join Program",
+               "title":"Join",
                "description":[
-                  "Sign up to become a PayHere Referrer",
+                  "Sign up to become a PayHere Partner",
                   "Get a recommendation from an existing PayHere Merchant",
                   "Provide your bank account details to get rewarded"
                ],
@@ -45,21 +45,21 @@
             },
             {
                "stepNumber":"02",
-               "title":"Refer Friend",
+               "title":"Refer",
                "description":[
                   "Spread the word about PayHere to your networks",
                   "Refer PayHere to businesses with online payment needs",
-                  "Help your referred businesses to use PayHere"
+                  "Get your referrals verified after they get on-boarded with PayHere"
                ],
                "icon":"/images/ReferAndEarn/refer.webp"
             },
             {
                "stepNumber":"03",
-               "title":"Earn Points",
+               "title":"Earn",
                "description":[
-                  "Get your referrals confirmed once they become PayHere Merchants",
-                  "Earn reward points for every payment they receive with PayHere",
-                  "Redeem your reward points as cash"
+                  "Earn rewards based on the payment volume processed by your referrals",
+                  "Enjoy monthly rewards from each  referral for up to 12 months",
+                  "Get your reward points automatically redeemed as cash at the month end"
                ],
                "icon":"/images/ReferAndEarn/earn.webp"
             }
@@ -85,8 +85,8 @@
                "icon":"/images/WhoCanJoin/marketers.webp"
             },
             {
-               "title":"Influencers",
-               "description":"Refer PayHere to businesses & freelancers through your channels",
+               "title":"Platform Providers",
+               "description":"Enable PayHere for your platform users such as vendors or service providers",
                "icon":"/images/WhoCanJoin/merchants.webp"
             },
             {
@@ -107,27 +107,35 @@
          "questions":[
             {
                "question":"Do I need to be a PayHere Merchant to join the Program?",
-               "answer":"No, you can join the program without being a merchant."
+               "answer":"No. Anyone can join with the program."
             },
             {
-               "question":"Do I need to be a PayHere Merchant to join the Program?",
-               "answer":"No, you can join the program without being a merchant."
+               "question":"Do I need to have a business registration to join?",
+               "answer":"No. Any individual or business can join with the Program."
             },
             {
-               "question":"Do I need to be a PayHere Merchant to join the Program?",
-               "answer":"No, you can join the program without being a merchant."
+               "question":"What are the prerequisites to join?",
+               "answer":"You need to have referred PayHere to at least one business, which you can use as your Recommender."
             },
             {
-               "question":"Do I need to be a PayHere Merchant to join the Program?",
-               "answer":"No, you can join the program without being a merchant."
+               "question":"Can I join if I haven’t referred anyone yet to PayHere?",
+               "answer":"Yes. First you need to refer PayHere to one business. Then you can use them as your Recommender to join."
             },
             {
-               "question":"Do I need to be a PayHere Merchant to join the Program?",
-               "answer":"No, you can join the program without being a merchant."
+               "question":"How can I claim the PayHere Merchants I referred to PayHere?",
+               "answer":"You can add the referrals you made to your Referrer Account by entering their Merchant IDs. PayHere will then send a confirmation email to the PayHere Merchant. If they confirm that you referred them to PayHere, they will be added as a referral made by you."
             },
             {
-               "question":"Do I need to be a PayHere Merchant to join the Program?",
-               "answer":"No, you can join the program without being a merchant."
+               "question":"How many referrals can I make?",
+               "answer":"Unlimited. Higher the referrals you make, higher the rewards you earn."
+            },
+            {
+               "question":"How I earn rewards from my referrals?",
+               "answer":"You can earn two types of rewards. One-time rewards & Monthly rewards. Every time you refer a new Merchant to PayHere, you earn one-time rewards based on that Merchant's current PayHere plan. 100 points for Lite, 500 for Plus & 1000 for Premium. You earn monthly rewards from each referred Merchant for 12 months, for every payment they accept through PayHere as 1  Point for every Rs.1000."
+            },
+            {
+               "question":"Can I redeem my reward points as cash?",
+               "answer":"Of course. You can add your bank account details to your Partner account & your reward points will be automatically redeemed as cash at the every month end. (1 Point = Rs.1)"
             }
          ]
       }
