@@ -8,16 +8,16 @@
                "link":"#about-program"
             },
             {
-               "name":"How it works",
+               "name":"How it work",
                "link":"#how-it-works"
             },
             {
-               "name":"Faq",
+               "name":"FAQ",
                "link":"#faq"
             },
             {
                "name":"Login",
-               "link":"#login",
+               "link":"https://partners.payhere.lk/dashboard/auth/sign-in",
                "button":true
             }
          ]
@@ -27,11 +27,11 @@
          "title2":"Refer & Get Rewarded",
          "description":"PayHere Referral Program allows you to earn an additional income by referring PayHere to your business networks & helping them to grow with PayHere.",
          "ctaText":"Join the Program",
-         "ctaLink":"#join-program"
+         "ctaLink":"https://partners.payhere.lk/dashboard/auth/sign-up"
       },
       "referAndEarn":{
-         "title1":"How it works",
-         "title2":"Refer & Earn",
+         "title1":"Join, Refer & Earn",
+         "title2":"How it works?",
          "steps":[
             {
                "stepNumber":"01",
@@ -66,8 +66,8 @@
          ]
       },
       "whoCanJoin":{
-         "title1":"Who can join",
-         "title2":"Ideally anyone",
+         "title1":"Ideally anyone, practically following",
+         "title2":"Who can join?",
          "categories":[
             {
                "title":"PayHere Merchants",
@@ -76,20 +76,55 @@
             },
             {
                "title":"Developers",
-               "description":"Refer PayHere to the businesses who get your development services",
+               "description":"Refer PayHere to the businesses who get your software development services",
                "icon":"/images/WhoCanJoin/developers.webp"
             },
             {
                "title":"Marketers",
-               "description":"Refer PayHere to the businesses who get your marketing services",
+               "description":"Refer PayHere to the businesses who get your  sales & marketing services",
+               "icon":"/images/WhoCanJoin/marketers.webp"
+            },
+            {
+               "title":"Influencers",
+               "description":"Refer PayHere to businesses & freelancers through your channels",
+               "icon":"/images/WhoCanJoin/merchants.webp"
+            },
+            {
+               "title":"Content Creators",
+               "description":"Create content to pitch PayHere to businesses & claim them as your referrals",
+               "icon":"/images/WhoCanJoin/developers.webp"
+            },
+            {
+               "title":"Freelancers",
+               "description":"Refer PayHere to the businesses who get your freelance services",
                "icon":"/images/WhoCanJoin/marketers.webp"
             }
          ]
       },
       "faqSection":{
          "title1":"FAQ",
-         "title2":"All the answers you need!",
+         "title2":"All the answers you need",
          "questions":[
+            {
+               "question":"Do I need to be a PayHere Merchant to join the Program?",
+               "answer":"No, you can join the program without being a merchant."
+            },
+            {
+               "question":"Do I need to be a PayHere Merchant to join the Program?",
+               "answer":"No, you can join the program without being a merchant."
+            },
+            {
+               "question":"Do I need to be a PayHere Merchant to join the Program?",
+               "answer":"No, you can join the program without being a merchant."
+            },
+            {
+               "question":"Do I need to be a PayHere Merchant to join the Program?",
+               "answer":"No, you can join the program without being a merchant."
+            },
+            {
+               "question":"Do I need to be a PayHere Merchant to join the Program?",
+               "answer":"No, you can join the program without being a merchant."
+            },
             {
                "question":"Do I need to be a PayHere Merchant to join the Program?",
                "answer":"No, you can join the program without being a merchant."
