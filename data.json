@@ -72,7 +72,7 @@
             {
                "title":"PayHere Merchants",
                "description":"If you use PayHere, you know firsthand how it can benefit other businesses",
-               "icon":"/images/WhoCanJoin/merchants.webp"
+               "icon":"/images/WhoCanJoin/pm.webp"
             },
             {
                "title":"Developers",
@@ -87,7 +87,7 @@
             {
                "title":"Platform Providers",
                "description":"Enable PayHere for your platform users such as vendors or service providers",
-               "icon":"/images/WhoCanJoin/merchants.webp"
+               "icon":"/images/WhoCanJoin/pm.webp"
             },
             {
                "title":"Content Creators",
