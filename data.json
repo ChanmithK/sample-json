@@ -144,7 +144,8 @@
          "title2":"Your rewards are one step away",
          "description":" You just have to create a Partner account & verify it through a recommendation by an existing PayHere Merchant, to whom you have already referred PayHere.",
          "btnText":"Create a Partner Account",
-         "btnLink":"https://partners.payhere.lk/dashboard/auth/sign-up"
+         "btnLink":"https://partners.payhere.lk/dashboard/auth/sign-up",
+         "textLink":"https://partners.payhere.lk/dashboard/auth/sign-in"
        }
    }
 }
