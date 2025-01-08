@@ -138,6 +138,13 @@
                "answer":"Of course. You can add your bank account details to your Partner account & your reward points will be automatically redeemed as cash at the every month end. (1 Point = Rs.1)"
             }
          ]
-      }
+      },
+       "footerSection":{
+         "title1":"So why wait?",
+         "title2":"Your rewards are one step away",
+         "description":" You just have to create a Partner account & verify it through a recommendation by an existing PayHere Merchant, to whom you have already referred PayHere.",
+         "btnText":"Create a Partner Account",
+         "btnLink":"https://partners.payhere.lk/dashboard/auth/sign-up"
+       }
    }
 }
