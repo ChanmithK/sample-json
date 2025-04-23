@@ -1,0 +1,147 @@
+{
+  "is_started": true,
+  "status": 0,
+  "results": [
+    {
+      "name_si": "එක්සත් ජාතික පක්ෂය",
+      "name_en": "United National Party",
+      "logo": "https://helakuru.sgp1.cdn.digitaloceanspaces.com/parliment-election-2024/party/elephant.png",
+      "color": "#1A883F",
+      "seats": 10000,
+      "percentage": "40%",
+      "authorities": 20,
+      "votes": 1234567
+    },
+    {
+      "name_si": "එක්සත් ජාතික පක්ෂය",
+      "name_en": "United National Party",
+      "logo": "https://helakuru.sgp1.cdn.digitaloceanspaces.com/parliment-election-2024/party/elephant.png",
+      "color": "#1A883F",
+      "seats": 10000,
+      "percentage": "40%",
+      "authorities": 20,
+      "votes": 1234567
+    },
+    {
+      "name_si": "එක්සත් ජාතික පක්ෂය",
+      "name_en": "United National Party",
+      "logo": "https://helakuru.sgp1.cdn.digitaloceanspaces.com/parliment-election-2024/party/elephant.png",
+      "color": "#1A883F",
+      "seats": 10000,
+      "percentage": "40%",
+      "authorities": 20,
+      "votes": 1234567
+    },
+    {
+      "name_si": "එක්සත් ජාතික පක්ෂය",
+      "name_en": "United National Party",
+      "logo": "https://helakuru.sgp1.cdn.digitaloceanspaces.com/parliment-election-2024/party/elephant.png",
+      "color": "#1A883F",
+      "seats": 10000,
+      "percentage": "40%",
+      "authorities": 20,
+      "votes": 1234567
+    },
+    {
+      "name_si": "එක්සත් ජාතික පක්ෂය",
+      "name_en": "United National Party",
+      "logo": "https://helakuru.sgp1.cdn.digitaloceanspaces.com/parliment-election-2024/party/elephant.png",
+      "color": "#1A883F",
+      "seats": 10000,
+      "percentage": "40%",
+      "authorities": 20,
+      "votes": 1234567
+    },
+    {
+      "name_si": "එක්සත් ජාතික පක්ෂය",
+      "name_en": "United National Party",
+      "logo": "https://helakuru.sgp1.cdn.digitaloceanspaces.com/parliment-election-2024/party/elephant.png",
+      "color": "#1A883F",
+      "seats": 10000,
+      "percentage": "40%",
+      "authorities": 20,
+      "votes": 1234567
+    }
+  ],
+  "current": {
+    "published_authorities": 200,
+    "total_authorities": 500,
+    "fill_precentage": "50%"
+  },
+  "recent_release": [
+    {
+      "name_si": "කොළඹ",
+      "name_en": "Colombo",
+      "link": "./authority/?division_id=1,district_id=1,authority_id=2"
+    },
+    {
+      "name_si": "කොළඹ",
+      "name_en": "Colombo",
+      "link": "./authority/?division_id=1,district_id=1,authority_id=2"
+    },
+    {
+      "name_si": "කොළඹ",
+      "name_en": "Colombo",
+      "link": "./authority/?division_id=1,district_id=1,authority_id=2"
+    },
+    {
+      "name_si": "කොළඹ",
+      "name_en": "Colombo",
+      "link": "./authority/?division_id=1,district_id=1,authority_id=2"
+    },
+    {
+      "name_si": "කොළඹ",
+      "name_en": "Colombo",
+      "link": "./authority/?division_id=1,district_id=1,authority_id=2"
+    },
+    {
+      "name_si": "කොළඹ",
+      "name_en": "Colombo",
+      "link": "./authority/?division_id=1,district_id=1,authority_id=2"
+    }
+  ],
+  "map": {
+    "division-ambanganga-korale-pradeshiya-sabha": {
+      "district_id": 1,
+      "division_id": 1,
+      "authority_id": 2,
+      "color": "#1A883F",
+      "link": "./authority/?division_id=1,district_id=1,authority_id=2"
+    },
+    "division-dambulla-municipal-council": {
+      "district_id": 1,
+      "division_id": 1,
+      "authority_id": 2,
+      "color": "#1A883F",
+      "link": "./authority/?division_id=1,district_id=1,authority_id=2"
+    },
+    "division-dambulla-pradeshiya-sabha": {
+      "district_id": 1,
+      "division_id": 1,
+      "authority_id": 2,
+      "color": "#1A883F",
+      "link": "./authority/?division_id=1,district_id=1,authority_id=2"
+    },
+    "division-galewela-pradeshiya-sabha": {
+      "district_id": 1,
+      "division_id": 1,
+      "authority_id": 2,
+      "color": "#1A883F",
+      "link": "./authority/?division_id=1,district_id=1,authority_id=2"
+    },
+    "division-laggala-pallegama-pradeshiya-sabha": {
+      "district_id": 1,
+      "division_id": 1,
+      "authority_id": 2,
+      "color": "#1A883F",
+      "link": "./authority/?division_id=1,district_id=1,authority_id=2"
+    },
+    "division-matale-municipal-council": {
+      "district_id": 1,
+      "division_id": 1,
+      "authority_id": 2,
+      "color": "#1A883F",
+      "link": "./authority/?division_id=1,district_id=1,authority_id=2"
+    }
+  }
+}
